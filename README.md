@@ -17,7 +17,7 @@ Your performance will be evaluated based on the accuracy, efficiency, and cleanl
 - Source File: `cities.csv`
 - Tasks:
     - Create a new table within the SQLite database.
-    - Import data from cities.csv into the newly created table.
+    - Import data from `cities.csv` into the newly created table.
 
 ### Objective 3: Data Extraction
 - Output Format: CSV file
@@ -30,7 +30,7 @@ Your performance will be evaluated based on the accuracy, efficiency, and cleanl
 
 ## Deliverables
 
-Upon completion of the tasks, the deliverable should consist of the code used for the evaluation.
+Upon completion of the tasks, the deliverable should consist of all the code used for the evaluation.
 The code should be well-documented and structured for clarity and maintainability.
 The following formats for submission are acceptable:
 
