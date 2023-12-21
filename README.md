@@ -17,7 +17,7 @@ Your performance will be evaluated based on the accuracy, efficiency, and cleanl
 - Source File: `cities.csv`
 - Tasks:
     - Create a new table within the SQLite database.
-    - Import data from data.csv into the newly created table.
+    - Import data from 'cities.csv' into the newly created table.
 
 ### Objective 3: Data Extraction
 - Output Format: CSV file
