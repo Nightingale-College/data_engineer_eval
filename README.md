@@ -40,3 +40,5 @@ The following formats for submission are acceptable:
 Ensure that the repository is public or access is granted to the evaluator.
 The submitted code will be reviewed for coding standards, logical structuring,
 and adherence to the given tasks.
+
+Send Pablo an email with your thoughts on what to improve upon for a better solution.  Do this before you do anything else.  
